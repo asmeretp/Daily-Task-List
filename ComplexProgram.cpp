@@ -31,7 +31,7 @@ void loadArray(string itemsArray[], string dueDatesArray[], int size);
 int main()
 {
 	system("color 5e");
-	system("title               Daily Task List   by belinda ");
+	system("title               Daily Task List   by Asmeret Jafarzade ");
 
 	printBanner();
 
